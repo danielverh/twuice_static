@@ -53,5 +53,13 @@
       "name": "Fog",
       "category": "Nature"
     }
+    ,
+    {
+      "author": "Daniel Verhoef",
+      "url": "https://rawgit.com/danielverh/twuice_static/master/img/wallpapers/house.jpg",
+      "thumbUrl": "https://rawgit.com/danielverh/twuice_static/master/img/wallpapers/tn_house.jpg",
+      "name": "House",
+      "category": "Nature"
+    }
   ]
 }
